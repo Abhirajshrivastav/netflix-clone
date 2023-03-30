@@ -1,46 +1,29 @@
-# Getting Started with Create React App and Redux
+# Netflix Clone Project 🎬 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+I’m thrilled to share my latest project: a Netflix clone with login screen, sign in screen and home screen using React.js and CSS. This project was a great opportunity for me to practice my front-end skills and learn how to use React hooks, custom components and API requests. 🚀 I used the TMDB API to fetch the movie data and display it in different categories on the home screen. 🍿
 
-## Available Scripts
+To get the best experience, please view this project on a laptop or desktop as it is not yet mobile-responsive. 🖥️
 
-In the project directory, you can run:
+You can check out the live demo of my project here: https://lnkd.in/gCpTcNfp . 🙌
 
-### `npm start`
+I have used a dummy sign in screen for this demo, so you don’t need to create an account or enter your personal details. 🔐
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+I would love to hear your feedback and suggestions on how I can improve my code and design. 💬
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Live Demo
 
-### `npm test`
+You can check out the live demo of my project here: https://lnkd.in/gCpTcNfp . 🙌
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+I have used a dummy sign in screen for this demo, so you don’t need to create an account or enter your personal details. 🔐:
 
-### `npm run build`
+## Technologies Used
+- React.js
+- CSS
+- TMDB API
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Feedback and Suggestions
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+I would love to hear your feedback and suggestions on how I can improve my code and design. 💬 Feel free to leave a comment on the repository or contact me directly.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Tags
+#react #netflix #webdevelopment #programming #project
