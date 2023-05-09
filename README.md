@@ -4,7 +4,7 @@ I’m thrilled to share my latest project: a Netflix clone with login screen, si
 
 To get the best experience, please view this project on a laptop or desktop as it is not yet mobile-responsive. 🖥️
 
-You can check out the live demo of my project here: https://lnkd.in/gCpTcNfp . 🙌
+You can check out the live demo of my project here:https://netflix-clone-one-indol.vercel.app/ . 🙌
 
 I have used a dummy sign in screen for this demo, so you don’t need to create an account or enter your personal details. 🔐
 
@@ -12,7 +12,7 @@ I would love to hear your feedback and suggestions on how I can improve my code 
 
 ## Live Demo
 
-You can check out the live demo of my project here: https://lnkd.in/gCpTcNfp . 🙌
+You can check out the live demo of my project here: https://netflix-clone-one-indol.vercel.app/ . 🙌
 
 I have used a dummy sign in screen for this demo, so you don’t need to create an account or enter your personal details. 🔐:
 
